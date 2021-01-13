@@ -1,0 +1,10 @@
+bot_token.txt
+src/main/scala/s1/telegrambots/users.txt
+.idea
+.bloop
+.metals
+target
+project/bloop
+project/project
+project/target
+src/main/scala/s1/telegrambots/users.json
