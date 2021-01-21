@@ -1,7 +1,9 @@
 # Telegram Minigame Bot
 ## Developers
 Jaakko Närhi, Matias Södersved, Sami Laakkonen
+
 @jaakkonarhi @matiasso @samilaa
+
 ## Project Overview
 This project was a group project for the course Programming Studio 1 at Aalto University.
 
