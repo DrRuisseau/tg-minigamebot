@@ -20,3 +20,10 @@ The length of the project was ~2 weeks.
 - Multiplayer Functionality
 - Simultaneous multi-chat functionality
 
+## Screencaptures
+<img src="media/connect4.gif" width="254" height="550"/> <img src="Media/gif1.gif" width="254" height="550"/>
+
+<img src="media/tictactoe.gif" width="254" height="550"/> <img src="Media/gif1.gif" width="254" height="550"/>
+
+<img src="media/minesweeper.gif" width="254" height="550"/> <img src="Media/gif1.gif" width="254" height="550"/>
+
